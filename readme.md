@@ -21,7 +21,7 @@ A 3D renderer built from scratch in C++ using Vulkan.
 
 ```bash
 git clone --recurse-submodules https://github.com/ayushsucksaf/vulkan-renderer.git
-cd vk-renderer
+cd vulkan-renderer
 mkdir build && cd build
 cmake ..
 make
