@@ -20,7 +20,7 @@ A 3D renderer built from scratch in C++ using Vulkan.
 ## building
 
 ```bash
-git clone --recurse-submodules https://github.com/ayushsucksaf/vk-renderer.git
+git clone --recurse-submodules https://github.com/ayushsucksaf/vulkan-renderer.git
 cd vk-renderer
 mkdir build && cd build
 cmake ..
